@@ -1,7 +1,3 @@
-from math import fabs
-import re
-
-
 class Poker:
     def __init__(self, carts):
         self.np = __import__('numpy')
